@@ -1,4 +1,3 @@
-Pharma Finder – Prescription Reading Demo
 
 early prototype of the AI module for Pharma Finder
 
