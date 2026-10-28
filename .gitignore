@@ -1,0 +1,5 @@
+*.ipynb
+*.jpg
+*.jpeg
+*.png
+.streamlit/secrets.toml
