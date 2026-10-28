@@ -1,5 +1,5 @@
 
-early prototype of the AI module for Pharma Finder
+early prototype of the AI module 
 
  
 Live demo  
