@@ -53,7 +53,7 @@ def check_drug(name, strength):
         return "غير مسجل", None, []
     options = available_strengths(brand)
     if str(strength) in options:
-        return "مؤكد", brand, options
+        return "موجود في قاعدة الأدوية", brand, options
     return "جرعة مختلفة", brand, options
 
 try:

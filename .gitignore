@@ -2,4 +2,4 @@
 *.jpg
 *.jpeg
 *.png
-.streamlit/secrets.toml
+secrets.toml
